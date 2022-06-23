@@ -1,2 +1,2 @@
 # TelegramURS
-Telergram Universal Repor tSystem
+Telergram Universal Report System
