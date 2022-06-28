@@ -26,12 +26,12 @@ __owner msg__
 __Serverside__  
 ![Screenshot_20220623_134751](https://user-images.githubusercontent.com/108064274/175282920-4ed79769-23cb-4560-adf2-0cd973352096.png)  
   
-**If you want to donate to me**
-*Bitcoin*
+**If you want to donate to me**  
+*Bitcoin*  
 ~~~
 bc1ql22tu49j9tunw6km2tl3qy4hqnlw2gymykc2ja
 ~~~
-*Monero*
+*Monero*  
 ~~~
 43TijcbD1A4ZmNSLbGsMFzanBddwjcrQ1jD9bMhNmu61PNFzgBnfj5y6PbNx6dmSPu7eUJfCoHN1w9fTBpswYb5i9vcu665
 ~~~
